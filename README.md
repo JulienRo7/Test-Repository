@@ -1,5 +1,6 @@
-# hello-world
-This is my first test repository on Git Hub
+# Test-Repository
 
-With this repository I discover the basics of Git Hub and maybe a few things 
-about Git in general.
+This repository will be used as test repository to experiment things before they go bad on a real project.
+Because sometimes, you know, computers and humans do not go together well.
+
+I hope people don't mind about this :)
